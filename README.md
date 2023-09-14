@@ -71,6 +71,3 @@ The data used in this project has been sourced from different channels and is st
 In each file, the `customerID` column contains a unique code assigned to each customer. It's important to note that contract information is valid from February 1, 2020.
 
 ---
-
-Este README proporciona una visión general del proyecto y su contexto. Para obtener información detallada sobre el proceso de análisis, modelado y resultados, consulte los archivos y documentos específicos en este repositorio.
-
